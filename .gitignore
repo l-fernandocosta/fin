@@ -1,0 +1,6 @@
+# CONFIG
+.env
+
+
+# DATABASE VOL
+pgdata
